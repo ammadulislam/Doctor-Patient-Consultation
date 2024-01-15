@@ -25,7 +25,7 @@
    - Install the app on your device.
 
 2. **Create Your Profile:**
-   - Patients: Sign up and create your patient profile.
+   - Patients: Sign up and create your patient profile..
    - Doctors: Showcase your education, specialties, and other details.
 
 3. **Search and Connect:**
